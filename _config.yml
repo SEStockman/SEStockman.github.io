@@ -21,7 +21,7 @@ repository               : "SEStockman/SEStockman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "SE Stockman"
   pronouns         : "she/her"  
   bio              : "Interdisciplinary Quantitative Biology Fellow at CU Boulder"
